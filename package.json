@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sozysozbot/cerke_hands_and_score.git"
+    "url": "git+https://github.com/cetkaik/cerke_hands_and_score.git"
   },
   "bugs": {
-    "url": "https://github.com/sozysozbot/cerke_hands_and_score/issues"
+    "url": "https://github.com/cetkaik/cerke_hands_and_score/issues"
   },
-  "homepage": "https://github.com/sozysozbot/cerke_hands_and_score#readme",
+  "homepage": "https://github.com/cetkaik/cerke_hands_and_score#readme",
   "devDependencies": {
     "@types/jest": "^25.2.3",
     "jest": "^29.3.1",
